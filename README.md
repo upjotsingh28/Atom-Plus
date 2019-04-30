@@ -2,6 +2,9 @@
 
 Willing to get past your competitors ? Wanna score the highest ?
 
+Link to play store :
+https://play.google.com/store/apps/details?id=psycho.developers.atom.plus
+
 ● Atom Plus provides you with the previous year question papers for Maharshi Dayanand University (M.D.U.) and that with the solutions as well !!
 
 ● So that you can simply study the pattern of the questions that have been asked previously and then study accordingly.
@@ -19,6 +22,3 @@ Some of the screenshots are below :
 <img src = "https://user-images.githubusercontent.com/46626425/56976538-d08ee880-6b90-11e9-8043-59054a553e7e.png" width="400" height="650"> <img src = "https://user-images.githubusercontent.com/46626425/56976544-d4226f80-6b90-11e9-87db-74bcc740f296.png" width="400" height="650">  
 <img src = "https://user-images.githubusercontent.com/46626425/56976547-d684c980-6b90-11e9-8a86-c928a74f1022.png" width="400" height="650"> <img src = "https://user-images.githubusercontent.com/46626425/56976550-d84e8d00-6b90-11e9-9b7e-15f5b000a9f9.png" width="400" height="650">  
 <img src = "https://user-images.githubusercontent.com/46626425/56976553-da185080-6b90-11e9-8637-a3f7a7ca0581.png" width="400" height="650">
-
-Link to play store :
-https://play.google.com/store/apps/details?id=psycho.developers.atom.plus
